@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      static: eu-central-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: Jlhh4jklhlkj3jhjhg3
+      secret-key: jbjx7hg4hHgFD32ld
